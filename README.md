@@ -13,3 +13,20 @@
 ## About me :sunglasses:
 
 I started this world of web development not long ago, I have achieved a rapid learning and now that I have managed to finish my degree I am looking for experience, I will follow this path of web development and I hope to perfect and increase my knowledge little by little.
+
+## Technologies :fire:
+:heavy_check_mark: Java
+<br/>
+:heavy_check_mark: HTML5
+<br/>
+:heavy_check_mark: CSS3
+<br/>
+:heavy_check_mark: MySQL
+<br/>
+:heavy_check_mark: Python
+<br/>
+:heavy_check_mark: Springboot
+<br/>
+:heavy_check_mark: Django
+<br/>
+
